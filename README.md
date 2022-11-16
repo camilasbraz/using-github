@@ -26,6 +26,26 @@ git add .
 git commit -m "First commit"
 ```
 
+6. Link the ssh key to your email
+```
+ssh-keygen -t rsa -C email
+```
+Press enter or choose in which folder you wish to save the ssh key and set (or not) a passphrase
+<!---
+<> teste4213
+<> +---[RSA 3072]----+
+<> |+.. .  o... +E   |
+<> |o+o. .. .  + o   |
+<> |BB+...      o    |
+<> |X===.            |
+<> |oXo.+ . S        |
+<> |+.*o+o o .       |
+<> |.+.oo.+ .        |
+<> | .   + .         |
+<> |    .            |
+<> +----[SHA256]-----+
+-->
+
 
 
 
