@@ -66,7 +66,7 @@ git pull origin branch_name
 3. Change branch
 ```
 git checkout <existing_branch>
-git checkout -b <new_branch>
+git checkout -b <new_branch> (if branch does not exist)
 ```
 <!---
 <> teste4213
