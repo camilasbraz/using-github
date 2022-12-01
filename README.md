@@ -83,3 +83,7 @@ git checkout -b <new_branch> (if branch does not exist)
 <> +----[SHA256]-----+
 
 -->
+
+### SmartGit
+
+<a href = "https://www.syntevo.com/smartgit/"> Download </a>
