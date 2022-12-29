@@ -42,6 +42,7 @@ ssh -T git@github.com
 <img width="453" alt="image" src="https://user-images.githubusercontent.com/45129483/202311626-b5394268-c97c-4b6b-a7de-6ec6e2535dd2.png">
 Choose yes then type your password. If everything works out fine, the message "You've successfully authenticated, but GitHub does not provide shell access.
 " will appear
+
 9. To clone a repository in your local machine, click on Code --> SSH and copy the link
 
 <img width="649" alt="image" src="https://user-images.githubusercontent.com/45129483/203391936-f8070854-80a0-4af4-9bd1-2da4d10fa6a5.png">
