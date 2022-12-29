@@ -88,3 +88,8 @@ git checkout -b <new_branch> (if branch does not exist)
 ### SmartGit
 
 <a href = "https://www.syntevo.com/smartgit/"> Download </a>
+  
+
+### Erro: fatal: remote origin already exists.  
+  
+run git push -u origin master on terminal
