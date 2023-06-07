@@ -101,7 +101,10 @@ git remote add origin https://github.com/USERNAME/REPOSITORY.git
 
 ### Create a remote repo from a local folder:
 <a href = "https://stackoverflow.com/questions/64385414/how-to-create-a-git-repository-using-github-cli"> Follow these steps</a>
-
+ ```
+  git init
+  gh repo create <repo name> --public --source=. --remote=upstream
+ ```
 <a href = "https://docs.github.com/en/get-started/importing-your-projects-to-github/importing-source-code-to-github/adding-locally-hosted-code-to-github">Git Hub tutorial</a>
 
 ```
